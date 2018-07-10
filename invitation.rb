@@ -13,4 +13,4 @@ guest_name=gets.chomp.capitalize
 
 
 
-puts "Dear #{guest_namename},you are cordially invited to"
+puts "Dear #{guest_name},you are cordially invited to"
